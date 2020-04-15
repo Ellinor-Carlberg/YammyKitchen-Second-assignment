@@ -1,12 +1,12 @@
-### YammyKitchen-Second-assignment
+# YammyKitchen-Second-assignment
 modernize an existing website
 
-# Link to the original website:
+### Link to the original website:
 http://www.yammykitchen.se
 
 
-# Refinements on the original website include the following:
-# General Changes:
+## Refinements on the original website include the following:
+### General Changes:
 1. Changed the header (to flow with the rest of the page)
 
 2. Added information to the Footer(For better structure)
@@ -17,17 +17,17 @@ http://www.yammykitchen.se
 
 5. Added a combination of Font awesome and Freepick icons
 
-# Homepage
+### Homepage
 1. Replace the image on the main webpage
 
 2. Rearranged the content
 
 3. Rearranged the reviews to make it more appealing
 
-# Menu
+### Menu
 1. Added the actual menu instead of the pdf link
 
-# Booking
+### Booking
 1. Added the opening times to refer while booking
 
 2. Added a form for subscribing to newsletter (just a project requirement)
@@ -36,7 +36,7 @@ http://www.yammykitchen.se
 
 4. Directly linked to the fork page for booking a table 
 
-# Group Members:
+### Group Members:
 Lisa Bengtsson -https://github.com/lisa-bee
 
 Ellinor Carlberg -https://github.com/Ellinor-Carlberg
