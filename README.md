@@ -1,5 +1,5 @@
 # YammyKitchen-Second-assignment
-modernize an existing website
+Our task was to modernize an existing website. This was our second homework assignment during the course HTML and CSS.
 
 ### Link to the original website:
 http://www.yammykitchen.se
