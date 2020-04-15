@@ -1,57 +1,44 @@
-# YammyKitchen-Second-assignment
+### YammyKitchen-Second-assignment
 modernize an existing website
 
-The website chosen: Yammy Kitchen (Restaurant in Gothenburg)
-
-Link to the original website:
-a. http://www.yammykitchen.se
-b. http://www.yammykitchen.se/meny
-c. http://www.yammykitchen.se/kontakt
+# Link to the original website:
+http://www.yammykitchen.se
 
 
-Refinements on the original website include the following:
+# Refinements on the original website include the following:
+# General Changes:
+1. Changed the header (to flow with the rest of the page)
 
-General Changes:
+2. Added information to the Footer(For better structure)
 
-1.Changed the header (to flow with the rest of the page)
+3. Made the website responsive
 
-2.Added information to the Footer(For better structure)
+4. Styled it changed the fonts, background for better appearance)
 
-3.Made the website responsive
+5. Added a combination of Font awesome and Freepick icons
 
-4.Styled it changed the fonts, background for better appearance)
+# Homepage
+1. Replace the image on the main webpage
 
-5.Added a combination of Font awesome and Freepick icons
+2. Rearranged the content
 
+3. Rearranged the reviews to make it more appealing
 
-a. Homepage
+# Menu
+1. Added the actual menu instead of the pdf link
 
-1.Replace the image on the main webpage
+# Booking
+1. Added the opening times to refer while booking
 
-2.Rearranged the content
+2. Added a form for subscribing to newsletter (just a project requirement)
 
-3.Rearranged the reviews to make it more appealing
+3. Added a How to reach location
 
+4. Directly linked to the fork page for booking a table 
 
-b. Menu
+# Group Members:
+Lisa Bengtsson -https://github.com/lisa-bee
 
-1.Added the actual menu instead of the pdf link
+Ellinor Carlberg -https://github.com/Ellinor-Carlberg
 
-
-c. Booking
-
-1.Added the opening times to refer while booking
-
-2.Added a form for subscribing to newsletter (just a project requirement)
-
-3.Added a How to reach location
-
-4.Directly linked to the fork page for booking a table 
-
-
-Group Members:
-	Lisa Bengtsson https://github.com/lisa-bee
-	
-	Ellinor Carlberg https://github.com/Ellinor-Carlberg
-	
-	Mamta Srinivas https://github.com/MS-load
+Mamta Srinivas -https://github.com/MS-load
