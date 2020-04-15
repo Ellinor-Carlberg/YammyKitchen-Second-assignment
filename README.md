@@ -36,7 +36,7 @@ http://www.yammykitchen.se
 
 4. Directly linked to the fork page for booking a table 
 
-### Group Members:
+## Group Members:
 Lisa Bengtsson -https://github.com/lisa-bee
 
 Mamta Srinivas -https://github.com/MS-load
