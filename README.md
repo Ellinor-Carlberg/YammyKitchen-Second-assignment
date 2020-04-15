@@ -6,7 +6,7 @@ http://www.yammykitchen.se
 
 
 ## Refinements on the original website include the following:
-### General Changes:
+### General Changes
 1. Changed the header (to flow with the rest of the page)
 
 2. Added information to the Footer(For better structure)
