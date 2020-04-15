@@ -1,11 +1,7 @@
 # YammyKitchen-Second-assignment
 modernize an existing website
 
-The website chosen:
-    Yammy Kitchen (Restaurant in Gothenburg)
-a. Index_Homepage
-b. Menu
-c. Booking
+The website chosen: Yammy Kitchen (Restaurant in Gothenburg)
 
 Link to the original website:
 a. http://www.yammykitchen.se
@@ -35,7 +31,6 @@ c. Booking
 2.Added a form for subscribing to newsletter (just a project requirement)
 3.Added a How to reach location.
 4.Directly linked to the fork page for booking a table 
-
 
 
 Group Members:
